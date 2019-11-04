@@ -23,3 +23,11 @@
 
 
 <hr>
+
+#### Aantekeningen
+
+Moscow updaten (create, edit, delete)
+Wireframe maken van (Spelers aanpassen en Spelers verwijderen)
+
+
+<hr>

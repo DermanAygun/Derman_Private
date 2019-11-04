@@ -11,3 +11,15 @@
 ![usecase](https://user-images.githubusercontent.com/42763896/68159426-0d79d480-ff52-11e9-908f-661e29f61d69.png)
 
 <hr>
+
+### Act_diagram
+
+
+
+<hr>
+
+### ERD_Schets
+
+
+
+<hr>

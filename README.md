@@ -26,7 +26,7 @@
 
 #### Aantekeningen
 
-Moscow updaten (create, edit, delete)
+Moscow updaten (create, edit, delete)<br>
 Wireframe maken van (Spelers aanpassen en Spelers verwijderen)
 
 
